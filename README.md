@@ -6,7 +6,7 @@ The bot is built in JavaScript using the [Discord.js](https://discord.js.org/) l
 
 ## How do I play?
 
-So far, you don't. This is a work in progress uploaded mainly for collaborative and remote work. When a viable version is developed, an invite link for the bot will be added.
+So far, you don't. This is a work in progress uploaded to GitHub mainly for collaborative and remote work. When a viable version is developed, an invite link for the bot will be added.
 
 ## Characters
 
@@ -28,9 +28,9 @@ To remove a certain character from your retinue, you should use the `/dhterminat
 
 ## Artwork
 
-The images used are not of my own make, nor are they used for commercial purposes. They are sourced from various official and unofficial sources of Warhamemr 40k art and the artist is shown in the copyright footer of each embed. 
+The images used are not of my own make, nor are they used for commercial purposes. They are sourced from various websites, full of official and unofficial Warhammer 40k art. The artist is shown in the copyright footer of each embed, if one was found. 
 
-If you're an artist that has issues with the usage of your art, contact me and we can work it out.
+If you're an artist that has issues with the usage of your art, whether it be the lack of crediting or unwillingness to have your art used in this project, contact me and we can work it out.
 
 
 
