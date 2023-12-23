@@ -1,0 +1,17 @@
+{
+  
+  "name": "inquisitionbot",
+  "version": "1.0.0",
+  "description": "40k text game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dscordiscancer",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "mongoose": "^8.0.2"
+  }
+  
+}
